@@ -1,5 +1,7 @@
 package main
 import(
+	"fmt"
+	"log"
 	"golang-crud-rest-api/database"
 	"golang-crud-rest-api/controllers"
 	"github.com/gorilla/mux"
